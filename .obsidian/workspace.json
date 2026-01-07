@@ -166,15 +166,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
   "active": "e0aca0774bd180b9",
   "lastOpenFiles": [
+    "KnowledgeBase/基础物理书籍.md",
+    "BiologyNote/Meiosis减数分裂.md",
     "新建 Text Document.txt",
     "Untitled.base",
-    "BiologyNote/Meiosis减数分裂.md",
     "Attachments",
     "Pasted image 20251221172356.png",
     "Pasted image 20251221172412.png",
